@@ -1,0 +1,5 @@
+Smart Cultural Storyteller Output
+
+Status: Model executed successfully
+Input: Sample folk story text
+Result: Story processed using TF-IDF and Naive Bayes model
